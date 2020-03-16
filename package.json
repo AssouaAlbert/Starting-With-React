@@ -1,0 +1,29 @@
+{
+  "name": "assoua-first-react-application",
+  "version": "1.0.0",
+  "description": "This is my first react application from my udemy course ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AssouaAlbert/Starting-With-React.git"
+  },
+  "keywords": [
+    "first",
+    "react",
+    "project",
+    "assoua",
+    "albert",
+    "eloumbat",
+    "udemy",
+    "course"
+  ],
+  "author": "Albert Eloumbat Assoua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AssouaAlbert/Starting-With-React/issues"
+  },
+  "homepage": "https://github.com/AssouaAlbert/Starting-With-React#readme"
+}
